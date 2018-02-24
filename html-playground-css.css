@@ -1,0 +1,26 @@
+.thick {
+    font-weight: bold;
+    color:darkorchid;
+}
+
+#div1 {
+    background-color:beige;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+    font-family:fantasy;
+}
+
+h3 {
+    color: greenyellow;
+}
+
+body {
+    color: blue;
+}
+
+#sum {
+    color: yellow;
+}
